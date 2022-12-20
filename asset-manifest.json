@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/draggavle-todo-list-react-ts/static/css/main.c63b53a7.css",
+    "main.js": "/draggavle-todo-list-react-ts/static/js/main.3a13a737.js",
+    "static/media/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg": "/draggavle-todo-list-react-ts/static/media/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.ffa8f0092ef94b0c88a3.jpg",
+    "index.html": "/draggavle-todo-list-react-ts/index.html",
+    "main.c63b53a7.css.map": "/draggavle-todo-list-react-ts/static/css/main.c63b53a7.css.map",
+    "main.3a13a737.js.map": "/draggavle-todo-list-react-ts/static/js/main.3a13a737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c63b53a7.css",
+    "static/js/main.3a13a737.js"
+  ]
+}
